@@ -1,0 +1,123 @@
+1
+99:59:59,999 --> 99:59:59,999
+Ok, all righty
+
+2
+99:59:59,999 --> 99:59:59,999
+We are really excited about this new version of Firefox
+
+3
+99:59:59,999 --> 99:59:59,999
+and I'd like to show you why.
+
+4
+99:59:59,999 --> 99:59:59,999
+Hi, my name is Jonathan Nightingale, I'm the Vice President of Firefox here at Mozilla
+
+5
+99:59:59,999 --> 99:59:59,999
+This is our biggest update in a while and you are gonna see it right away
+
+6
+99:59:59,999 --> 99:59:59,999
+but the changes go more than skin deep
+
+7
+99:59:59,999 --> 99:59:59,999
+There are a lot of improvements under the hood, that I'd like to talk to you about as well
+
+8
+99:59:59,999 --> 99:59:59,999
+The new Firefox menu combines all of the command functions that you're gonna need from Firefox into a single place
+
+9
+99:59:59,999 --> 99:59:59,999
+and gets out of your way when you don't need it.
+
+10
+99:59:59,999 --> 99:59:59,999
+You can even create bookmarks with a single click and manage them from the same place.
+
+11
+99:59:59,999 --> 99:59:59,999
+The redesign of Firefox tabs makes it more beautiful, yes, but also means that the tabs you are not looking at disappear into the background
+
+12
+99:59:59,999 --> 99:59:59,999
+so they don't act at some much of a distraction
+
+13
+99:59:59,999 --> 99:59:59,999
+With the new Firefox menu in customization mode, it's easier than ever to make Firefox your own
+
+14
+99:59:59,999 --> 99:59:59,999
+You can remove buttons you don't use, you can reorganize things to make it more natural to you
+
+15
+99:59:59,999 --> 99:59:59,999
+Not just in the toolbar, but in the menu as well
+
+16
+99:59:59,999 --> 99:59:59,999
+and if there's functions that you need quick access too, you can bring them up
+
+17
+99:59:59,999 --> 99:59:59,999
+if you print a lot of documents for example, put it on the toolbar so you don't have to go hunting in menus
+
+18
+99:59:59,999 --> 99:59:59,999
+This also works with the thousand of Firefox add-ons out there.
+
+19
+99:59:59,999 --> 99:59:59,999
+If you want the "Send a Kindle" add-on or a Pinterest add-on as part of your menu
+
+20
+99:59:59,999 --> 99:59:59,999
+you can drag and drop it, just like any other part of Firefox
+
+21
+99:59:59,999 --> 99:59:59,999
+Part of making Firefox your own also means being able to take it with you
+
+22
+99:59:59,999 --> 99:59:59,999
+That's why we've made it so easy to set-up Firefox Sync
+
+23
+99:59:59,999 --> 99:59:59,999
+You can nick your bookmarks, history, passwords
+
+24
+99:59:59,999 --> 99:59:59,999
+you can access them from any device just by creating an account
+
+25
+99:59:59,999 --> 99:59:59,999
+and let Firefox take care of the rest.
+
+26
+99:59:59,999 --> 99:59:59,999
+And as with all things that we do, your information will be kept secure
+
+27
+99:59:59,999 --> 99:59:59,999
+Mozilla is a mission-driven organization, dedicated to promote openness, innovation and opportunity on the Web
+
+28
+99:59:59,999 --> 99:59:59,999
+That's why we build Firefox around the idea of protecting your privacy
+
+29
+99:59:59,999 --> 99:59:59,999
+and that's why we are the most trusted company on the Internet
+
+30
+99:59:59,999 --> 99:59:59,999
+We are really excited about the new release of Firefox and we built it for you
+
+31
+99:59:59,999 --> 99:59:59,999
+So give it a try, and thanks for watching.

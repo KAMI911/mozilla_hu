@@ -1,0 +1,175 @@
+1
+00:00:03,097 --> 00:00:05,004
+Alrighty. Okay.
+
+2
+00:00:05,004 --> 00:00:06,911
+♪ (inspirational piano music) ♪
+
+3
+00:00:06,911 --> 00:00:08,820
+<i>ahem</i>
+
+4
+00:00:08,820 --> 00:00:09,583
+Feeling good.
+
+5
+00:00:09,583 --> 00:00:11,533
+<i>exhale</i>
+
+6
+00:00:12,743 --> 00:00:15,434
+Why fix something that isn't broken? I hate that question. <i>laugh</i>
+
+7
+00:00:15,434 --> 00:00:19,333
+UIs are a bit like fashion - sometimes you change the way your clothes looks,
+
+8
+00:00:19,333 --> 00:00:21,767
+even though the clothes isn't broken.
+
+9
+00:00:21,767 --> 00:00:24,500
+Sometimes you need a new fresh look on something.
+
+10
+00:00:25,550 --> 00:00:28,533
+Aesthetics change and we learn lessons over time
+
+11
+00:00:28,533 --> 00:00:31,100
+and we have to correct our mistakes from the past.
+
+12
+00:00:31,100 --> 00:00:35,100
+I'm really excited to talk to the world about these changes.
+
+13
+00:00:35,100 --> 00:00:37,642
+Our users have changed, their behaviors have changed,
+
+14
+00:00:37,642 --> 00:00:39,633
+competitors have changed, the way people use the Web,
+
+15
+00:00:39,633 --> 00:00:41,527
+the Web has changed, right?
+
+16
+00:00:41,757 --> 00:00:45,932
+Those little things, the little refinements that just
+
+17
+00:00:45,932 --> 00:00:49,511
+take something from a good idea to - you know. <i>woosh</i>
+
+18
+00:00:49,511 --> 00:00:50,610
+Beautiful.
+
+19
+00:00:50,610 --> 00:00:52,987
+I mean, we already hear about people who click that bookmark
+
+20
+00:00:52,987 --> 00:00:56,300
+and then unbookmark and bookmark again, just to see it go,
+
+21
+00:00:56,300 --> 00:00:58,833
+right? And that's what you want, you want these little
+
+22
+00:00:58,833 --> 00:01:00,033
+delightful moments.
+
+23
+00:01:00,033 --> 00:01:02,433
+Biggest under-the-hood change was the way we do customization.
+
+24
+00:01:02,433 --> 00:01:05,568
+If you remove all of the buttons out of the menu panel,
+
+25
+00:01:05,568 --> 00:01:09,068
+now we show a bouncing unicorn.
+
+26
+00:01:09,978 --> 00:01:13,867
+Tabs! You wouldn't think it would be such an impassioned topic,
+
+27
+00:01:13,867 --> 00:01:15,337
+but it is.
+
+28
+00:01:15,337 --> 00:01:17,440
+No, there's been no physical violence.
+
+29
+00:01:17,440 --> 00:01:19,200
+Those tabs are, like, buttery smooth now.
+
+30
+00:01:19,200 --> 00:01:20,768
+Why curvy tabs?
+
+31
+00:01:20,768 --> 00:01:22,410
+We've gone from kind of the square tabs
+
+32
+00:01:22,410 --> 00:01:24,100
+and we wanted something more aerodynamic.
+
+33
+00:01:24,100 --> 00:01:27,333
+They're smooth as silk.That's something I'm particularly proud of.
+
+34
+00:01:27,333 --> 00:01:29,533
+We put a lot of work into making them look aerodynamic,
+
+35
+00:01:29,533 --> 00:01:32,100
+so they actually appear faster, but we also put a lot of work on
+
+36
+00:01:32,100 --> 00:01:35,034
+the technical side, to make them actually be faster.
+
+37
+00:01:35,034 --> 00:01:40,167
+Madhava with a tab strapped to his head to prove that our tabs
+
+38
+00:01:40,167 --> 00:01:44,267
+are 20% more streamlined than the competition.
+
+39
+00:01:44,267 --> 00:01:47,200
+With the air flowing over it in a wind tunnel.
+
+40
+00:01:47,200 --> 00:01:48,467
+It was surprisingly hard.
+
+41
+00:01:48,467 --> 00:01:51,668
+Our engineers are just amazing, they're magicians and they
+
+42
+00:01:51,668 --> 00:01:53,033
+can make anything happen.
+
+43
+00:01:53,033 --> 00:01:57,724
+This is the biggest change that I've seen in Firefox in its history.
+
+44
+00:01:57,724 --> 00:02:03,764
+♪ (inspirational piano music) ♪

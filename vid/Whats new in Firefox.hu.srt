@@ -1,0 +1,115 @@
+1
+00:00:00,000 --> 00:00:01,841
+Oké, minden rendben!
+
+2
+00:00:04,496 --> 00:00:08,543
+Üdvözlöm! Jonathan Nightingale vagyok, a Firefox fejlesztésért felelős alelnök vagyok a Mozillánál.
+
+3
+00:00:08,803 --> 00:00:11,862
+Ez volt mostanában a legnagyobb frissítés, amelyet minden bizonnyal szívesen megismerne,
+
+4
+00:00:12,115 --> 00:00:13,818
+de a változások nem csak a felszínt érintik.
+
+5
+00:00:13,818 --> 00:00:16,820
+Nagyon sok fejlesztés történt a motorháztető alatt, amelyeket most szintén bemutatok.
+
+6
+00:00:17,452 --> 00:00:22,834
+Az új Firefox menü egy helyre gyűjti a Firefox összes parancsfunkcióját, amelyekre csak szüksége lehet,
+
+7
+00:00:22,834 --> 00:00:25,102
+és eltűnik szem elől, amikor nincs rá szüksége.
+
+8
+00:00:25,192 --> 00:00:29,322
+Egy kattintással könyvjelzőt hozhat létre, és ugyanarról a helyről kezelheti a könyvjelzőit.
+
+9
+00:00:29,730 --> 00:00:37,305
+A Firefox újratervezett lapjai nem csak sokkal szebbek, de az éppen nem használt lapok eltűnnek a háttérben,
+
+10
+00:00:37,496 --> 00:00:39,786
+így kevésbé vonják el a figyelmét.
+
+11
+00:00:40,227 --> 00:00:45,048
+A Firefox menü új testreszabási üzemmódja minden eddiginél egyszerűbbé teszi a saját Firefox létrehozását
+
+12
+00:00:45,129 --> 00:00:49,759
+Eltávolíthatja a nem használt gombokat, újrarendezheti az elemeket, ahogy az Önnek a legkényelmesebb.
+
+13
+00:00:49,759 --> 00:00:52,061
+Nem csak az eszköztáron, hanem a menüben is.
+
+14
+00:00:52,442 --> 00:00:56,056
+Ha van egy funkció, amit gyorsan el szeretne érni, akkor azt közelebb hozhatja.
+
+15
+00:00:56,056 --> 00:01:00,751
+Ha például sokat nyomtat, akkor rakja ki a gombját az eszköztárra, így nem kell a menüben kikeresni.
+
+16
+00:01:00,968 --> 00:01:04,763
+És ez működik a több ezer Firefox kiterjesztéssel is.
+
+17
+00:01:04,763 --> 00:01:09,179
+Ha a „Küldés a Kindle-re” vagy a Pinterest kiterjesztést a menüben szeretné látni,
+
+18
+00:01:09,179 --> 00:01:12,250
+egyszerűen húzza a megfelelő helyre, akárcsak a Firefox bármely más részét.
+
+19
+00:01:12,729 --> 00:01:16,116
+A saját Firefox létrehozása egyúttal azt is jelenti, hogy bárhová elviheti magával.
+
+20
+00:01:16,116 --> 00:01:19,472
+Ezért tettük ilyen egyszerűvé a Firefox Sync beállítását.
+
+21
+00:01:19,549 --> 00:01:22,287
+Gyűjtse össze könyvjelzőit, böngészési előzményeit, jelszavait
+
+22
+00:01:22,357 --> 00:01:25,813
+és használja bármilyen eszközről, bárhol is van. Csak egy fiókot kell létrehoznia,
+
+23
+00:01:25,813 --> 00:01:27,652
+a többiről a Firefox gondoskodik.
+
+24
+00:01:27,652 --> 00:01:31,301
+És mint mindig, biztonságban tartjuk adatait.
+
+25
+00:01:31,910 --> 00:01:38,030
+A Mozilla szervezetét egy küldetés vezérli, amely a nyíltságot, az innovációt és a lehetőséget hirdeti az interneten.
+
+26
+00:01:38,441 --> 00:01:42,099
+Ezért készítettük a Firefoxot úgy, hogy megvédje az Ön adatait,
+
+27
+00:01:42,592 --> 00:01:45,442
+és ez az, amiért mi vagyunk a legmegbízhatóbb internetes szervezet.
+
+28
+00:01:45,731 --> 00:01:49,426
+Nagyon izgatottak vagyunk a legújabb Firefox verzióval kapcsolatban, amelyet Önnek készítettünk.
+
+29
+00:01:49,485 --> 00:01:51,755
+Próbálja ki! Köszönöm a figyelmet!

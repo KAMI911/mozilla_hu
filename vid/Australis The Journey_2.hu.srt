@@ -1,0 +1,179 @@
+1
+00:00:00,000 --> 00:00:03,230
+♪ (inspiráló zene) ♪
+
+2
+00:00:03,230 --> 00:00:05,300
+Amikor zenészként együtt jammeltek, átadod az ötleteidet,
+
+3
+00:00:05,300 --> 00:00:09,434
+és a többiek ötletet merítenek belőle, és továbbviszik.
+
+4
+00:00:09,434 --> 00:00:12,920
+Ez egy igazán jó és függőséget okozó érzés.
+
+5
+00:00:12,920 --> 00:00:16,600
+Úgy gondolom az együttműködés a Mozillánál egyedi és nagyszerű.
+
+6
+00:00:16,600 --> 00:00:20,767
+A legjobbat hozza ki belőlünk, ha együtt dolgozunk a közösséggel, mert
+
+7
+00:00:20,767 --> 00:00:22,867
+ők azok, akik a világban élnek.
+
+8
+00:00:22,867 --> 00:00:26,233
+Szeretném megköszönni a segítséget a több tucat hozzájárulónak, akik
+
+9
+00:00:26,233 --> 00:00:29,620
+segítettek hibákat javítani, bejelentettek és kivzsgáltak hibákat.
+
+10
+00:00:29,620 --> 00:00:33,027
+Mindnyájan 100%-ban elkötelezettek a projekt iránt, és nem látok
+
+11
+00:00:33,027 --> 00:00:36,367
+semmi különbséget közöttük és a kollégáim között.
+
+12
+00:00:36,367 --> 00:00:39,180
+Sokszor előfordult, hogy valaki egyszer csak felbukkant, és azt mondta:
+
+13
+00:00:39,180 --> 00:00:41,940
+„Igazán lenyűgözött az Australis, szeretnék segíteni”
+
+14
+00:00:41,940 --> 00:00:44,266
+Nekünk pedig egy nagy halom hibajegyünk van, és azt mondtuk:
+
+15
+00:00:44,268 --> 00:00:46,267
+„Tessék, ezen elkezdhetsz dolgozni”.
+
+16
+00:00:46,267 --> 00:00:47,901
+Megmutatttuk nekik, és ők elkezdtek rajta dolgozni.
+
+17
+00:00:47,901 --> 00:00:50,467
+És amikor elkészültek: az igazán lenyűgöző volt.
+
+18
+00:00:50,467 --> 00:00:53,300
+Mert akkor újabbakat mutattunk nekik, és azt mondtuk: „Tessék, itt van még, parancsolj”.
+
+19
+00:00:53,300 --> 00:00:57,733
+Az Australis hatalmas munka volt, rengeteg részt érintett.
+
+20
+00:00:57,733 --> 00:01:02,967
+Rengeteg mindent kellett előkészíteni a Firefox új verziójához
+
+21
+00:01:02,967 --> 00:01:06,833
+és a közösségünk nagyszerű volt a lokalizációk elkészítésében
+
+22
+00:01:06,833 --> 00:01:08,800
+és a felkészülésben a kiadásra.
+
+23
+00:01:10,400 --> 00:01:12,800
+Úgy gondolom, azért sikerült egy általában jobb terméket kiadnunk
+
+24
+00:01:12,800 --> 00:01:15,333
+mert figyelembe vettük a visszajelzéseket.
+
+25
+00:01:15,333 --> 00:01:16,923
+Rengeteg véleményt hallunk, és rengeteg visszajelzést kapunk.
+
+26
+00:01:16,923 --> 00:01:19,169
+Büszke vagyok rá, ahogy leküzdöttük
+
+27
+00:01:19,169 --> 00:01:21,901
+a projekt során tapasztalt különböző akadályokat.
+
+28
+00:01:21,901 --> 00:01:24,033
+Rengeteg, sokat vitatott hibajegyünk volt.
+
+29
+00:01:24,033 --> 00:01:25,840
+A fejlesztés során
+
+30
+00:01:25,840 --> 00:01:28,932
+igyekeztünk megvárni mindenki véleményét.
+
+31
+00:01:28,932 --> 00:01:31,168
+Előfordult, hogy semmiben sem értettünk egyet
+
+32
+00:01:31,168 --> 00:01:33,530
+de rengeteget vitatkoztunk.
+
+33
+00:01:33,530 --> 00:01:35,190
+Általában pozitív maradt a hangvétel.
+
+34
+00:01:35,190 --> 00:01:38,529
+Nagyszerű látni, ahogy az emberek együtt dolgoznak.
+
+35
+00:01:40,269 --> 00:01:42,867
+Nos, én új vagyok, és csak pár hónapja kerültem ide, és
+
+36
+00:01:42,867 --> 00:01:46,693
+számomra, a legcsodálatosabb nézni, ahogy
+
+37
+00:01:46,693 --> 00:01:50,240
+az emberek összegyűltek, hogy ezt megvalósíthassák.
+
+38
+00:01:53,400 --> 00:01:56,483
+A nagy, óriási, csapatok közti együttműködést.
+
+39
+00:01:56,483 --> 00:01:59,633
+Igazán élvezetes volt azokkal az emberekkel dolgozni,
+
+40
+00:01:59,633 --> 00:02:01,653
+akik ennek a megvalósításáért gyűltek össze.
+
+41
+00:02:03,883 --> 00:02:08,597
+Valami sokkal jobbat hoztunk létre,
+
+42
+00:02:08,597 --> 00:02:12,233
+mert úgy tudtunk együtt dolgozni, mint polihisztorok nagy csoportja.
+
+43
+00:02:12,233 --> 00:02:15,634
+Mindenki többet tett, mint az elvárható hozzájárulása
+
+44
+00:02:15,634 --> 00:02:19,234
+lett volna ehhez a sikertörténethez.
+
+45
+00:02:19,234 --> 00:02:21,367
+♪ (b flat) ♪
