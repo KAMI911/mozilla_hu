@@ -1,0 +1,263 @@
+﻿1
+00:00:00,000 --> 00:00:05,013
+Kezdetben a világháló egyszerű, összefüggő,
+
+2
+00:00:05,013 --> 00:00:07,047
+nyílt és biztonságos hely volt.
+
+3
+00:00:07,047 --> 00:00:09,030
+A tervezéskor a célok nemesek voltak,
+
+4
+00:00:09,030 --> 00:00:11,047
+úgy szerették volna, hogy a web nagyra nőjön,
+
+5
+00:00:11,047 --> 00:00:13,067
+élő és lélegző ökoszisztémává váljon
+
+6
+00:00:13,067 --> 00:00:15,068
+az emberiség szolgálatában,
+
+7
+00:00:15,068 --> 00:00:17,074
+egy mindenki számára elérhető erőforrás
+
+8
+00:00:17,074 --> 00:00:19,021
+az innováció és a vállalkozás szolgálatában.
+
+9
+00:00:19,021 --> 00:00:21,075
+A hely, ahol megvalósulnak álmaid.
+
+10
+00:00:21,075 --> 00:00:23,024
+De a kezdetek kezdetén,
+
+11
+00:00:23,024 --> 00:00:24,069
+mint ahogy minden ökoszisztémát,
+
+12
+00:00:24,069 --> 00:00:26,005
+a webet is gondozni kellett.
+
+13
+00:00:26,005 --> 00:00:29,082
+Ahogy növekedett, a felhasználók
+új problémákkal találták szembe magukat.
+
+14
+00:00:29,082 --> 00:00:32,093
+Agresszív hirdetések, vírusok...
+
+15
+00:00:32,093 --> 00:00:34,086
+A választási lehetőségek hiánya.
+
+16
+00:00:34,086 --> 00:00:37,037
+Falakkal körbezárt, egymástól elszigetelt tartalmak.
+
+17
+00:00:37,037 --> 00:00:38,093
+A világháló furcsává változott:
+
+18
+00:00:38,093 --> 00:00:42,057
+lassabbá, egyre bonyolultabbá vált, és félelmetes lett.
+
+19
+00:00:42,057 --> 00:00:44,037
+A felhasználók azt kérdezték:
+
+20
+00:00:44,037 --> 00:00:46,001
+Ez lenne az?
+
+21
+00:00:46,001 --> 00:00:47,094
+Vagy tudna esetleg jobb is lenni?
+
+22
+00:00:47,094 --> 00:00:50,035
+Programozók, dizájnerek és idealisták
+
+23
+00:00:50,035 --> 00:00:52,068
+egy kis csoportja
+
+24
+00:00:52,068 --> 00:00:54,065
+hitte, hogy ez sikerülhet.
+
+25
+00:00:54,065 --> 00:00:56,062
+Vakmerő ötlet született.
+
+26
+00:00:56,062 --> 00:00:59,049
+Egy pici, nem profitorientált globális közösség
+
+27
+00:00:59,049 --> 00:01:01,032
+képes létrehozni létrehozni valami jobbat:
+
+28
+00:01:01,032 --> 00:01:05,016
+új ötleteket és újításokat vinni a világhálóba.
+
+29
+00:01:05,016 --> 00:01:08,040
+Mozilla projektnek nevezték el.
+
+30
+00:01:08,040 --> 00:01:12,013
+Egy újfajta böngészőt kezdtek fejleszteni.
+
+31
+00:01:12,013 --> 00:01:14,030
+Ma ezt a világ úgy ismeri: Firefox.
+
+32
+00:01:14,030 --> 00:01:15,094
+Anyagi érdekektől mentesen hozták létre azért,
+
+33
+00:01:15,094 --> 00:01:20,031
+hogy az legyen a legfontosabb, aki a webet használja.
+
+34
+00:01:20,031 --> 00:01:22,065
+Több, mint egy szoftver, ez egy platform, 
+
+35
+00:01:22,065 --> 00:01:26,058
+amit bárki használhat, hogy megvalósítsa az ötleteit.
+
+36
+00:01:26,058 --> 00:01:28,018
+Az ártó tényezők csökkentek.
+
+37
+00:01:28,018 --> 00:01:30,022
+Újból láthatóvá vált az, 
+
+38
+00:01:30,022 --> 00:01:32,049
+ami miatt annak idején elindult a világháló.
+
+39
+00:01:32,049 --> 00:01:35,059
+A hely, ahol majdnem mindent elérhetsz,
+
+40
+00:01:35,059 --> 00:01:37,026
+amit csak elképzelsz.
+
+41
+00:01:37,026 --> 00:01:38,086
+A Mozilla és a Firefox
+
+42
+00:01:38,086 --> 00:01:42,026
+azért létezik, hogy mindenki
+megragadhassa ezt a lehetőséget,
+
+43
+00:01:42,026 --> 00:01:46,040
+és kiálljon a felhasználók mellett,
+hogy a szabad legyen választás,
+
+44
+00:01:46,040 --> 00:01:49,057
+és az irányítás a felhasználók kezében legyen.
+
+45
+00:01:49,057 --> 00:01:52,068
+De mi van, ha a Firefox csak a kezdet?
+
+46
+00:01:52,068 --> 00:01:55,095
+Mi van, ha valami nagyobb dolog része?
+
+47
+00:01:55,095 --> 00:01:58,045
+A felhasználói személyes szférájától kezdve
+a mobil Firefoxig,
+
+48
+00:01:58,045 --> 00:02:00,038
+az alkalmazásokig és az azonosításig,
+
+49
+00:02:00,038 --> 00:02:03,045
+a web határait feszegetjük nap mint nap.
+
+50
+00:02:03,045 --> 00:02:06,002
+És már túlmutatunk csak a szoftveren.
+
+51
+00:02:06,002 --> 00:02:09,086
+Segítünk, hogy kifejlődjön a webkészítők új generációja.
+
+52
+00:02:09,086 --> 00:02:12,086
+Hisszük, hogy a web az a hely, ahol bárki
+
+53
+00:02:12,086 --> 00:02:15,013
+megvalósíthatja az álmait.
+
+54
+00:02:15,013 --> 00:02:17,023
+Ezért csináltuk a Firefoxot.
+
+55
+00:02:17,023 --> 00:02:21,027
+Ezért van az, hogy önkéntesek tízezrei
+segítik fejleszteni a termékeinket.
+
+56
+00:02:21,027 --> 00:02:24,091
+És ezért van az, hogy világszerte
+százmilliók használják a szoftverünket.
+
+57
+00:02:24,091 --> 00:02:28,088
+De a legfontosabb – nekünk mindig Te leszel az első,
+
+58
+00:02:28,088 --> 00:02:31,061
+és legfontosabb.
+
+59
+00:02:31,061 --> 00:02:34,045
+Milliónyian csak a Mozilla Firefox
+miatt ismernek minket.
+
+60
+00:02:34,045 --> 00:02:36,098
+De már ennél többek vagyunk.
+
+61
+00:02:36,098 --> 00:02:39,006
+Egy nonprofit szervezet, amely azért küzd,
+
+62
+00:02:39,006 --> 00:02:42,033
+hogy megvédje mindannyiunk féltett kincsét, a webet.
+
+63
+00:02:42,033 --> 00:02:45,016
+Csatlakozz hozzánk – szükségünk van
+a Te támogatásodra is.
+
+64
+00:02:45,016 --> 00:02:47,034
+Adományodat ma is várjuk.

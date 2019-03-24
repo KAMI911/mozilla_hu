@@ -1,0 +1,255 @@
+1
+00:00:00,000 --> 00:00:05,013
+In the beginning the web was simple, connected
+
+2
+00:00:05,013 --> 00:00:07,047
+open, safe
+
+3
+00:00:07,047 --> 00:00:09,030
+designed as a force for good
+
+4
+00:00:09,030 --> 00:00:11,047
+it would become something far greater
+
+5
+00:00:11,047 --> 00:00:13,067
+a living, breathing ecosystem
+
+6
+00:00:13,067 --> 00:00:15,068
+in service of humanity
+
+7
+00:00:15,068 --> 00:00:17,074
+a public resource for innovation
+
+8
+00:00:17,074 --> 00:00:19,021
+and opportunity.
+
+9
+00:00:19,021 --> 00:00:21,075
+A place to build your dreams.
+
+10
+00:00:21,075 --> 00:00:23,024
+But in those early days,
+
+11
+00:00:23,024 --> 00:00:24,069
+like any ecosystem,
+
+12
+00:00:24,069 --> 00:00:26,005
+the web needed nurturing.
+
+13
+00:00:26,005 --> 00:00:29,082
+As it grew, users faced new challenges.
+
+14
+00:00:29,082 --> 00:00:32,093
+Popups. Viruses.
+
+15
+00:00:32,093 --> 00:00:34,086
+A lack of choice.
+
+16
+00:00:34,086 --> 00:00:37,037
+Walled gardens of content.
+
+17
+00:00:37,037 --> 00:00:38,093
+The web was fraying.
+
+18
+00:00:38,093 --> 00:00:42,057
+it was slow, complicated, scary.
+
+19
+00:00:42,057 --> 00:00:44,037
+Users began to ask...
+
+20
+00:00:44,037 --> 00:00:46,001
+is this it?
+
+21
+00:00:46,001 --> 00:00:47,094
+or could the web be something better?
+
+22
+00:00:47,094 --> 00:00:50,035
+A small group of people
+
+23
+00:00:50,035 --> 00:00:52,068
+coders, designers, idealists
+
+24
+00:00:52,068 --> 00:00:54,065
+believed it could.
+
+25
+00:00:54,065 --> 00:00:56,062
+They had an audacious idea.
+
+26
+00:00:56,062 --> 00:00:59,049
+That a tiny non-profit and a global community
+
+27
+00:00:59,049 --> 00:01:01,032
+could build something better
+
+28
+00:01:01,032 --> 00:01:05,016
+and force new ideas and innovation on to the Web.
+
+29
+00:01:05,016 --> 00:01:08,040
+They called it the Mozilla project.
+
+30
+00:01:08,040 --> 00:01:12,013
+They began by making a new kind of Web browser.
+
+31
+00:01:12,013 --> 00:01:14,030
+What we know today as Firefox.
+
+32
+00:01:14,030 --> 00:01:15,094
+And they made it a non-profit,
+
+33
+00:01:15,094 --> 00:01:20,031
+so it would always put the people who use the web first.
+
+34
+00:01:20,031 --> 00:01:22,065
+more than software, it was a platform that
+
+35
+00:01:22,065 --> 00:01:26,058
+anyone could use to build on their ideas.
+
+36
+00:01:26,058 --> 00:01:28,018
+The nuisances diminished.
+
+37
+00:01:28,018 --> 00:01:30,022
+The foundations of the Web we know today
+
+38
+00:01:30,022 --> 00:01:32,049
+began to appear
+
+39
+00:01:32,049 --> 00:01:35,059
+Now the Web is a place where you can build almost
+
+40
+00:01:35,059 --> 00:01:37,026
+anything you can imagine
+
+41
+00:01:37,026 --> 00:01:38,086
+Mozilla and Firefox
+
+42
+00:01:38,086 --> 00:01:42,026
+exist to help people everywhere seize this opportunity
+
+43
+00:01:42,026 --> 00:01:46,040
+and to stand up for users in a world where choice and control
+
+44
+00:01:46,040 --> 00:01:49,057
+are too often at risk.
+
+45
+00:01:49,057 --> 00:01:52,068
+But what if Firefox was just the beginning?
+
+46
+00:01:52,068 --> 00:01:55,095
+What if it was part of something bigger?
+
+47
+00:01:55,095 --> 00:01:58,045
+From user privacy to Firefox Mobile,
+
+48
+00:01:58,045 --> 00:02:00,038
+to apps and identity,
+
+49
+00:02:00,038 --> 00:02:03,045
+we're pushing the boundaries of the web every day.
+
+50
+00:02:03,045 --> 00:02:06,002
+And we are going beyond software.
+
+51
+00:02:06,002 --> 00:02:09,086
+We're helping to build a generation of web makers.
+
+52
+00:02:09,086 --> 00:02:12,086
+we believe the web is a place where anyone
+
+53
+00:02:12,086 --> 00:02:15,013
+can come to build their dreams.
+
+54
+00:02:15,013 --> 00:02:17,023
+It's why we make Firefox.
+
+55
+00:02:17,023 --> 00:02:21,027
+It's why tens of thousands of volunteers help build our products.
+
+56
+00:02:21,027 --> 00:02:24,091
+It's why hundreds of millions around the world use our software
+
+57
+00:02:24,091 --> 00:02:28,088
+But most importantly -- it's why we always put you first,
+
+58
+00:02:28,088 --> 00:02:31,061
+and stand up to those who don't.
+
+59
+00:02:31,061 --> 00:02:34,045
+millions know us for Mozilla Firefox.
+
+60
+00:02:34,045 --> 00:02:36,098
+But we are about so much more.
+
+61
+00:02:36,098 --> 00:02:39,006
+We are a non-profit
+
+62
+00:02:39,006 --> 00:02:42,033
+fighting to protect the web we all love.
+
+63
+00:02:42,033 --> 00:02:45,016
+Join us - we need your support.
+
+64
+00:02:45,016 --> 00:02:47,034
+Make a donation today.
