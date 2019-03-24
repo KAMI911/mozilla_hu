@@ -1,0 +1,35 @@
+1
+00:00:01,500  --> 00:00:05,767
+When you open Firefox or click the home button you get this handy home page.
+
+2
+00:00:05,768 --> 00:00:10,167
+It has a big search box right up front that uses whatever search engine you want.
+
+3
+00:00:10,168 --> 00:00:12,333
+By default it uses Google.
+
+4
+00:00:12,334 --> 00:00:18,467
+Of course you don't have to use this page as your home page, you can customize Firefox to use any site you want.
+
+5
+00:00:18,468 --> 00:00:23,433
+All you have to do is open that site and drag the tab to the home button.
+
+6
+00:00:23,434 --> 00:00:25,433
+Click yes and you're done.
+
+7
+00:00:25,434 --> 00:00:29,767
+And if you ever change your mind and want that cool Firefox page back,
+
+8
+00:00:29,768 --> 00:00:35,500
+open the menu, click options, general and restore to default.
+
+9
+00:00:37,267 --> 00:00:38,633
+It's as easy as that.

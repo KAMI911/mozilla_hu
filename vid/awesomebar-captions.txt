@@ -1,0 +1,43 @@
+1
+00:00:00,900  --> 00:00:04,367
+We like to call Firefox's address bar, the Awesome bar
+
+2
+00:00:04,368 --> 00:00:06,900
+because you can use it to find anything.
+
+3
+00:00:06,901 --> 00:00:10,200
+As you start to type in it, a list of websites appear
+
+4
+00:00:10,201 --> 00:00:13,567
+based on where you've gone before and how often you went there. 
+
+5
+00:00:13,568 --> 00:00:18,633
+Sites that you've bookmarked or tagged are highlighted to make the list easy to scan.
+
+6
+00:00:18,634 --> 00:00:22,300
+Just click one of the sites and you'll be taken there instantly.
+
+7
+00:00:22,301 --> 00:00:25,367
+And the Awesome bar gets better the more you use it.
+
+8
+00:00:25,368 --> 00:00:29,400
+You can often find the site you want after typing just one letter.
+
+9
+00:00:29,401 --> 00:00:31,200
+But wait, there's more!
+
+10
+00:00:31,201 --> 00:00:36,067
+You can also search the web from here. Just type a search term and hit enter.
+
+11
+00:00:36,068 --> 00:00:40,067
+The awesome bar makes it easy to do more surfing with less typing.

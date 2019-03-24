@@ -1,0 +1,47 @@
+1
+00:00:00,500  --> 00:00:04,500
+Add-ons are like apps that you install to add features to Firefox.
+
+2
+00:00:04,501 --> 00:00:09,500
+They let you compare prices, check weather, listen to music and more.
+
+3
+00:00:09,501 --> 00:00:14,000
+Let's give it a try. Click on the menu and choose add-ons.
+
+4
+00:00:14,001 --> 00:00:17,000
+Here I can browse or search for add-ons.
+
+5
+00:00:17,500 --> 00:00:20,000
+This one looks interesting - Lightbeam.
+
+6
+00:00:20,800 --> 00:00:24,000
+Let me click the "Add to Firefox" button to install it.
+
+7
+00:00:27,500 --> 00:00:32,000
+Notice that it added a new button to the toolbar that I can use to open it.
+
+8
+00:00:32,150 --> 00:00:37,500
+This is great, but I don't think I need to have access to it all the time.
+
+9
+00:00:37,501 --> 00:00:42,233
+That's ok, Firefox is easy to customize so I can quickly move this
+
+10
+00:00:42,234 --> 00:00:46,333
+to the menu where it's out of the way but still easy to get to.
+
+11
+00:00:46,334 --> 00:00:50,500
+There are thousands of add-ons available to add just the thing you need.
+
+12
+00:00:50,501 --> 00:00:51,867
+Give them a try.

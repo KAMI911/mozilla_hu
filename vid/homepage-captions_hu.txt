@@ -1,0 +1,35 @@
+1
+00:00:01,500  --> 00:00:05,767
+Amikor megnyitja a Firefox-ot vagy a Kezdőlap gombra kattint ez a "kezes kis" weboldal várja
+
+2
+00:00:05,768 --> 00:00:10,167
+egy nagy keresődobozzal a közepén, ami azt a keresőmotort használja, amelyiket csak akarja.
+
+3
+00:00:10,168 --> 00:00:12,333
+Alapértelmezettként a Google van beállítva.
+
+4
+00:00:12,334 --> 00:00:18,467
+Természetesen nem muszáj ezt az oldalt használnia kezdőlapként, beállíthat a Firefoxban más oldalt is, ami jobban tetszik.
+
+5
+00:00:18,468 --> 00:00:23,433
+Csupán annyit kell tennie, hogy megnyitja a kívánt oldalt és a fülét ráhúzza a kezdőlap gombra.
+
+6
+00:00:23,434 --> 00:00:25,433
+Kattintson az Igen-re és kész.
+
+7
+00:00:25,434 --> 00:00:29,767
+Ha bármikor meggondolja magát és szeretné visszaállítani a klassz Firefox kezdőoldalt,
+
+8
+00:00:29,768 --> 00:00:35,500
+nyissa meg a Menüt, kattintson a Beállításokra, Általános és Alapértelmezés.
+
+9
+00:00:37,267 --> 00:00:38,633
+Ennyire egyszerű.

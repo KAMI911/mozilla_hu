@@ -1,0 +1,47 @@
+1
+00:00:00,300  --> 00:00:04,033
+A Firefox-nak remek eszközei vannak arra, hogy könnyedén sajátunkká varázsoljuk.
+
+2
+00:00:04,034 --> 00:00:09,600
+Testreszabhatja a Firefox-ot úgy, ahogy szeretné. Kattintson a Menü gombra és válassza a Testreszabást!
+
+3
+00:00:09,601 --> 00:00:16,367
+Itt választhat egy eszközt, amit állandóan használ - legyen ez például a "Keresés az oldalon" -, és áthelyezheti az eszköztárba.
+
+4
+00:00:16,368 --> 00:00:18,900
+Lényegében bárhová teheti
+
+5
+00:00:18,901 --> 00:00:21,067
+az eszköztár másik oldalára,
+
+6
+00:00:21,068 --> 00:00:22,833
+a Fülek-sávba
+
+7
+00:00:23,333 --> 00:00:25,600
+vagy akár a könyvjelzők eszköztárba is.
+
+8
+00:00:27,800 --> 00:00:32,667
+Ha valamit viszont csak ritkán használ - például a "Hivatkozás küldése emailben" eszközt -,
+
+9
+00:00:32,668 --> 00:00:35,400
+a Menü lehet a megfelelő hely számára.
+
+10
+00:00:35,401 --> 00:00:40,867
+Hogy rendet tartsunk, el is távolíthatunk valamit, amit nem használunk.
+
+11
+00:00:40,868 --> 00:00:43,667
+Ha befejeztük, kattintsunk a "Kilépés a Testreszabásból"-ra.
+
+12
+00:00:43,668 --> 00:00:46,500
+Most már tökéletes a Firefox-od.

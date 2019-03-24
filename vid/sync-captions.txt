@@ -1,0 +1,51 @@
+1
+00:00:00,633  --> 00:00:06,500
+Firefox Sync lets you access your bookmarks, history, passwords and more from any device.
+
+2
+00:00:06,501 --> 00:00:10,567
+To get started, open the menu and click sign in to sync.
+
+3
+00:00:10,568 --> 00:00:14,500
+Then click get started and create a Firefox Account.
+
+4
+00:00:15,433 --> 00:00:17,500
+We'll send you a confirmation email.
+
+5
+00:00:17,501 --> 00:00:21,567
+When you get the email, click the link and you'll be all set.
+
+6
+00:00:21,568 --> 00:00:26,667
+Now you can sign in to your account on another device and access all of your data.
+
+7
+00:00:26,668 --> 00:00:29,500
+Here's Firefox on my Android device.
+
+8
+00:00:29,501 --> 00:00:33,200
+I tap the menu, settings and then sync.
+
+9
+00:00:33,201 --> 00:00:36,750
+Press get started, choose the sign in link
+
+10
+00:00:37,300 --> 00:00:38,700
+and then I'm done.
+
+11
+00:00:39,000 --> 00:00:42,500
+Now I can find that tab I had open on my computer!
+
+12
+00:00:42,501 --> 00:00:47,100
+Sync is great on the go and even makes it easy to transfer your info
+
+13
+00:00:47,101 --> 00:00:49,500
+when setting up Firefox on a new computer.

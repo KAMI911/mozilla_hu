@@ -1,0 +1,27 @@
+1
+00:00:01,700  --> 00:00:05,867
+A Firefox keresősávjában könnyen kiválaszthatjuk azt a keresőmotort, amelyiket használni szeretnénk.
+
+2
+00:00:05,868 --> 00:00:09,600
+Csak kattintson a legördülő menüre és válasszon ki egy másik keresőmotort.
+
+3
+00:00:09,601 --> 00:00:12,800
+Ez a menü vezérli az összes helyet ahonnan kereshet: 
+
+4
+00:00:12,801 --> 00:00:19,167
+a keresősávot, a kezdőlapot, a címsort vagy ha egy szóra jobb egérgombbal kattintunk.
+
+5
+00:00:19,168 --> 00:00:21,900
+És ha netán a beépített keresőmotorok nem lennének elegendők,
+
+6
+00:00:21,901 --> 00:00:28,433
+hozzáadhat további népszerű találati helyeket, úgy hogy felkeresi a webhelyet és a keresősáv menüjében hozzáadja a keresőmotort.
+
+7
+00:00:28,434 --> 00:00:30,933
+Próbálja meg ezt egy másik böngészővel megcsinálni!

@@ -1,0 +1,43 @@
+1
+00:00:00,900  --> 00:00:04,367
+A Firefox címsorát szeretjük Intelligens címsornak is hívni,
+
+2
+00:00:04,368 --> 00:00:06,900
+mert segítségével megtalálhat bármit.
+
+3
+00:00:06,901 --> 00:00:10,200
+Ahogy gépelni kezd benne, egy weboldal lista jelenik meg
+
+4
+00:00:10,201 --> 00:00:13,567
+attól függően, merre járt azelőtt és milyen gyakran járt ott. 
+
+5
+00:00:13,568 --> 00:00:18,633
+Azok a weboldalak, melyeket könyvjelzővel látott el, az áttekinthetőség kedvéért kiemelve jelennek meg.
+
+6
+00:00:18,634 --> 00:00:22,300
+Csak kattintson valamelyik oldalra a listából, az nyomban megjelenik!
+
+7
+00:00:22,301 --> 00:00:25,367
+Az Intelligens címsor ráadásul olyan, hogy minél többet használja, annál jobb lesz.
+
+8
+00:00:25,368 --> 00:00:29,400
+Gyakran egy betű beírásával is megtalálhatja a kívánt oldalt.
+
+9
+00:00:29,401 --> 00:00:31,200
+De mégvalami:
+
+10
+00:00:31,201 --> 00:00:36,067
+Innen kereshet is a weben. Csak gépelje be a keresőszót és nyomja meg az Entert!
+
+11
+00:00:36,068 --> 00:00:40,067
+Az Intelligens címsor megkönnyíti a dolgát, hogy kevesebb gépelés mellett többet szörfölhessen.

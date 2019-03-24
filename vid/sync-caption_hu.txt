@@ -1,0 +1,51 @@
+1
+00:00:00,633  --> 00:00:06,500
+A Firefox Sync elérhetõvé teszi a könyvjelzõket, elõzményeket, jelszavakat és más egyebet bármilyen eszközön.
+
+2
+00:00:06,501 --> 00:00:10,567
+Kezdéshez nyissa meg a menüt és kattints a "sign in to sync" gombra.
+
+3
+00:00:10,568 --> 00:00:14,500
+Aztán kattints a "get started" gombra és hozza létre a Firefox fiókját.
+
+4
+00:00:15,433 --> 00:00:17,500
+Küldeni fogunk egy visszaigazoló e-mailt.
+
+5
+00:00:17,501 --> 00:00:21,567
+Amikor megkapta az e-mailt, kattints a hivatkozásra, és már kész is van.
+
+6
+00:00:21,568 --> 00:00:26,667
+Ezentúl be tud jelentkezni a fiókjába más eszközökrõl is, és megtalálható benne minden adata.
+
+7
+00:00:26,668 --> 00:00:29,500
+Íme a Firefox az Androidon.
+
+8
+00:00:29,501 --> 00:00:33,200
+Érintse meg a menüt, majd beállítások, és szinkronizálás.
+
+9
+00:00:33,201 --> 00:00:36,750
+Kattintson a "get started" gombra
+
+10
+00:00:37,300 --> 00:00:38,700
+és már kész is.
+
+11
+00:00:39,000 --> 00:00:42,500
+Így megtalálja azt a lapot amelyet a számítógépén nyitott meg.
+
+12
+00:00:42,501 --> 00:00:47,100
+A Sync egy nagyszerû utitárs és az adatátvitelt is megyorsítja
+
+13
+00:00:47,101 --> 00:00:49,500
+mikor egy új számítógépen állítja be a Firefoxot.

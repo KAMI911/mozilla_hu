@@ -1,0 +1,35 @@
+1
+00:00:00,367  --> 00:00:05,200
+Let's say you're using a shared computer and you want to do something like shop or access your bank.
+
+2
+00:00:05,201 --> 00:00:08,333
+This is the perfect time to use private browsing.
+
+3
+00:00:08,334 --> 00:00:11,533
+Just click the menu and choose New Private Window.
+
+4
+00:00:11,534 --> 00:00:15,500
+Notice that Private Browsing windows have a purple mask at the top.
+
+5
+00:00:15,501 --> 00:00:19,767
+Firefox won't save any information about where you go in a private browsing window.
+
+6
+00:00:19,768 --> 00:00:24,600
+Things like the pages you visit, what you search for or enter into forms.
+
+7
+00:00:24,601 --> 00:00:28,733
+It's important to know that private browsing doesn't make you invisible on the web.
+
+8
+00:00:28,734 --> 00:00:33,200
+Your internet service provider or employeer can still track the sites you go to.
+
+9
+00:00:33,201 --> 00:00:39,567
+When you're finished with private browsing you can just close the window and continue using Firefox like you normally do.

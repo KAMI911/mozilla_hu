@@ -1,0 +1,47 @@
+1
+00:00:00,500  --> 00:00:04,500
+A Kiegészítők olyanok, mint az alkalmazások, telepítve új tulajdonágokkal bővítheti a Firefox-ot.
+
+2
+00:00:04,501 --> 00:00:09,500
+Hasonlítson össze árakat, nézze meg az időjárást, hallgasson zenét, vagy csináljon valami mást!
+
+3
+00:00:09,501 --> 00:00:14,000
+Tegyünk egy próbát! Rákattintok a menüre majd a Kiegészítőkre.
+
+4
+00:00:14,001 --> 00:00:17,000
+Itt böngészhetek vagy kereshetek a kiegészítők között.
+
+5
+00:00:17,500 --> 00:00:20,000
+Nézzük meg például ezt: Lightbeam.
+
+6
+00:00:20,800 --> 00:00:24,000
+Rákattintok a "Hozzáadás ehhez: Firefox" gombra majd a telepítésre.
+
+7
+00:00:27,500 --> 00:00:32,000
+Vegyük észre, hogy az eszközsávra egy új gomb került, amivel megnyithatjuk a kiegészítőt.
+
+8
+00:00:32,150 --> 00:00:37,500
+Ez nagyszerű! De én nem akarom, hogy mindig szem előtt legyen.
+
+9
+00:00:37,501 --> 00:00:42,233
+Rendben. Mivel a Firefox könnyen testreszabható, egyszerűen átmozgatom
+
+10
+00:00:42,234 --> 00:00:46,333
+a menübe, ahol nincs szem előtt, de könnyen megtalálom.
+
+11
+00:00:46,334 --> 00:00:50,500
+Több ezer kiegészítő közül választhatja ki azt, amire szüksége van.
+
+12
+00:00:50,501 --> 00:00:51,867
+Tegyen egy próbát!

@@ -1,0 +1,43 @@
+1
+00:00:00,267  --> 00:00:02,900
+Bookmarks are a great way to save your favorite sites.
+
+2
+00:00:02,901 --> 00:00:05,133
+To make one, just click the star.
+
+3
+00:00:05,134 --> 00:00:08,800
+To find the bookmarks you've made, click the bookmarks menu.
+
+4
+00:00:08,801 --> 00:00:12,967
+By default, new bookmarks go in the unsorted bookmarks folder
+
+5
+00:00:12,968 --> 00:00:15,500
+and also show up under recently bookmarked.
+
+6
+00:00:15,501 --> 00:00:20,533
+But you can always file your bookmarks wherever you want by clicking the star a second time.
+
+7
+00:00:20,534 --> 00:00:25,433
+Now you can edit the name, change the folder it goes in or add tags.
+
+8
+00:00:25,434 --> 00:00:27,767
+And if you use the bookmarks toolbar
+
+9
+00:00:27,768 --> 00:00:32,700
+you can just drag tabs to it to quickly create a shortcut that you can get to anytime.
+
+10
+00:00:32,800 --> 00:00:34,367
+And if that's not enough,
+
+11
+00:00:34,368 --> 00:00:38,667
+start typing in the awesome bar and Firefox will find your bookmarks too.

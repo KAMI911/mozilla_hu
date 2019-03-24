@@ -1,0 +1,43 @@
+1
+00:00:00,267  --> 00:00:02,900
+A Könyvjelzők használata egy nagyszerű megoldás kedvenc oldalainak elmentésére.
+
+2
+00:00:02,901 --> 00:00:05,133
+Csak kattintson a csillagra és máris létrehozott egyet.
+
+3
+00:00:05,134 --> 00:00:08,800
+Ahhoz, hogy megtalálja a mentett könyvjelzőket, kattintson a Könyvjelzők menüre!
+
+4
+00:00:08,801 --> 00:00:12,967
+Az új könyvjelzők alapértelmezettként a "Nem rendezett könyvjelzők" mappába kerülnek,
+
+5
+00:00:12,968 --> 00:00:15,500
+valamint a "Recently bookmarked" mappa alatt is megjelennek.
+
+6
+00:00:15,501 --> 00:00:20,533
+De mindig eldöntheti, hogy hova kerüljön egy könyvjelző, ha másodszor is a csillagra kattint.
+
+7
+00:00:20,534 --> 00:00:25,433
+Ilyenkor szerkesztheti a nevét, cserélhet mappát vagy cimkét adhat hozzá.
+
+8
+00:00:25,434 --> 00:00:27,767
+Könyvjelző eszköztár használatával pedig
+
+9
+00:00:27,768 --> 00:00:32,700
+ha megfogja a lap fülét és ráhúzza, már létre is hozott egy hivatkozást, amit bármikor elérhet.
+
+10
+00:00:32,800 --> 00:00:34,367
+És ha ez nem elég, akkor
+
+11
+00:00:34,368 --> 00:00:38,667
+kezdjen el gépelni a Csudisávban és a Firefox megtalálja a könyvjelzőjét is.

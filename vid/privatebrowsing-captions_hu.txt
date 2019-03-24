@@ -1,0 +1,35 @@
+1
+00:00:00,367  --> 00:00:05,200
+Tegyük fel, hogy nyilvános vagy megosztott gépen internetezik és vásárolni szeretne, vagy elérni a bankszámláját.
+
+2
+00:00:05,201 --> 00:00:08,333
+Megfelelő alkalom ez arra, hogy privát ablakban böngésszen.
+
+3
+00:00:08,334 --> 00:00:11,533
+Kattintson a Menüre, és válassza az Új Privát Ablakot.
+
+4
+00:00:11,534 --> 00:00:15,500
+Vegye észre, hogy a privát böngészőablaknak a tetején egy lila álarc található.
+
+5
+00:00:15,501 --> 00:00:19,767
+Ebben az ablakban a Firefox semmilyen információt nem fog elmenteni arról, ahol jár.
+
+6
+00:00:19,768 --> 00:00:24,600
+Beleértve a felkeresett oldalakat, beírt kereséseket vagy begépelt válaszokat.
+
+7
+00:00:24,601 --> 00:00:28,733
+Fontos tudni, hogy a privát böngészés nem tesz minket láthatatlanná a weben.
+
+8
+00:00:28,734 --> 00:00:33,200
+Az internetszolgáltató vagy a munkaadó így is lenyomozhatja a meglátogatott oldalakat.
+
+9
+00:00:33,201 --> 00:00:39,567
+Amikor befejezte a privát böngészést csak zárja be az ablakot és folytassa a Firefox általános használatát.

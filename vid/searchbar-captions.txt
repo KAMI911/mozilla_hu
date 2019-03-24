@@ -1,0 +1,27 @@
+1
+00:00:01,700  --> 00:00:05,867
+Firefox's search bar makes it easy to use any search engine you want.
+
+2
+00:00:05,868 --> 00:00:09,600
+Just click the drop down menu and choose another search engine.
+
+3
+00:00:09,601 --> 00:00:12,800
+This menu controls all the places you search from - 
+
+4
+00:00:12,801 --> 00:00:19,167
+the search bar, the home page, the address bar or when right-clicking a word.
+
+5
+00:00:19,168 --> 00:00:21,900
+And if the built-in search engines aren't enough,
+
+6
+00:00:21,901 --> 00:00:28,433
+you can add many popular searches by going to their website and adding the search engine from the search bar menu.
+
+7
+00:00:28,434 --> 00:00:30,933
+Try doing that with another browser.
